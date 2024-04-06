@@ -1,6 +1,6 @@
 ## Title:: Incorporation of Doubtful and fully verified registrations: 
 ## Country :: NIGERIA
-## Author:: Basil Chinedu
+## Author:: Chinedu
 ## Date:: October-2023
 
 
